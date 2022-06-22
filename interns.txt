@@ -5,10 +5,41 @@ Fábio Luiz Fischer
 Solution Consultant
 ----------------------------------------------
 
+----------------------------------------------
+João Vitor Manoel
+24 anos
+2 Acidentes
+2 Rolê de Ambulância
+3 curso de pesca
+5 rola ou enrola
+pintinho do estagio
+Worldwide Support
+----------------------------------------------
+
 .... Criem seus bloquinhos
+<<<<<<< HEAD
 
 -----------------------------------------------
 Thais Jandre
 21 anos
 Professional Services Intern
 -----------------------------------------------
+=======
+Eduardo Schulz
+21 anos
+O rei delas, delvale é suco deu mole é vapo sheeshh
+
+1/2 xícara (chá) de óleo
+3 cenouras médias raladas
+4 ovos
+2 xícaras (chá) de açúcar
+2 e 1/2 xícaras (chá) de farinha de trigo
+1 colher (sopa) de fermento em pó
+COBERTURA
+1 colher (sopa) de manteiga
+3 colheres (sopa) de chocolate em pó
+1 xícara (chá) de açúcar
+1 xícara (chá) de leite
+----------------------------------------------
+
+>>>>>>> 1a019246d0472c788d996766fad7914144edde42
